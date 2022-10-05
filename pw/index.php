@@ -13,7 +13,7 @@
 <body>
 
 	<?php
-	//tambahkan dbconnect
+	//tambahkan dbconnect database
 	include('dbconnect.php');
 
 	//query
