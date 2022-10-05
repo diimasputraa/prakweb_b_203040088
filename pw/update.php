@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Toko Buku</title>
+	<title>Mirage Books Store</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="../assets/bootstrap/css/bootstrap.css">
@@ -22,7 +22,7 @@ $result = mysqli_query($conn, $query);
 
 ?>
 
-<div class="container bg-info" style="padding-top: 20px; padding-bottom: 20px;">
+<div class="container bg-danger" style="padding-top: 20px; padding-bottom: 20px;">
 
 	<h3>Update Data Buku</h3>
 	<form role="form" action="edit.php" method="get">
