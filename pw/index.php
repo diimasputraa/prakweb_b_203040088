@@ -23,8 +23,8 @@
 
 	?>
 
-	<div class="container bg-info" style="padding-top: 20px; padding-bottom: 20px;">
-		<h3></h3>
+	<div class="container bg-danger" style="padding-top: 20px; padding-bottom: 20px;">
+		<center><h3>Mirage Books Store</h3></center>
 		<hr>
 		<div class="row">
 			<div class="col-sm-3">
