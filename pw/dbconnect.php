@@ -1,3 +1,5 @@
+<!-- Connect Database -->
+
 <?php
 $host = "localhost";
 $user = "root";
