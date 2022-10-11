@@ -1,4 +1,3 @@
-<!-- Edit -->
 
 <?php
 //include('dbconnected.php');
